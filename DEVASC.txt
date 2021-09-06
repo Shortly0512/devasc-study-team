@@ -1,1 +1,2 @@
 I am on my way to passing in cisco DEVASC exam
+I am beginning to understand git!
